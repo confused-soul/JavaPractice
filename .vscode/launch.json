@@ -1,0 +1,197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "canbevalid",
+            "request": "launch",
+            "mainClass": "canbevalid",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "MV1",
+            "request": "launch",
+            "mainClass": "MV1",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "p5",
+            "request": "launch",
+            "mainClass": "p5",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "p4",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "p3",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "p2",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "validSudoku$Solution",
+            "request": "launch",
+            "mainClass": "validSudoku$Solution",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "addbin",
+            "request": "launch",
+            "mainClass": "addbin",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "validbrackets",
+            "request": "launch",
+            "mainClass": "validbrackets",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "reversenum",
+            "request": "launch",
+            "mainClass": "reversenum",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "frogjump",
+            "request": "launch",
+            "mainClass": "frogjump",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "longestsub",
+            "request": "launch",
+            "mainClass": "Programs.longestsub",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "lorem",
+            "request": "launch",
+            "mainClass": "Programs.lorem",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "atoi",
+            "request": "launch",
+            "mainClass": "atoi",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "occurance",
+            "request": "launch",
+            "mainClass": "Programs.occurance",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "MaxArea",
+            "request": "launch",
+            "mainClass": "Programs.MaxArea",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "BracketChecker",
+            "request": "launch",
+            "mainClass": "Programs.BracketChecker",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "ComplexNumberUse",
+            "request": "launch",
+            "mainClass": "Programs.ComplexNumberUse",
+            "projectName": "WorkplaceJava_d0737289"
+        },
+        {
+            "type": "java",
+            "name": "Launch TicTacToe",
+            "request": "launch",
+            "mainClass": "Programs.TicTacToe",
+            "projectName": "WorkplaceJava_8ed12437"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "WorkplaceJava_8ed12437"
+        },
+        {
+            "type": "java",
+            "name": "Launch test01",
+            "request": "launch",
+            "mainClass": "test01",
+            "projectName": "WorkplaceJava_8ed12437"
+        },
+        {
+            "type": "java",
+            "name": "Launch missingBox",
+            "request": "launch",
+            "mainClass": "missingBox",
+            "projectName": "WorkplaceJava_8ed12437"
+        }
+    ]
+}
